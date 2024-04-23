@@ -32,4 +32,4 @@ root.rc.rc=Node(7)
 root.lc.rc.lc=Node(8)
 root.rc.lc.rc=Node(9)
 topview(root)
-bottomview(root)
+
